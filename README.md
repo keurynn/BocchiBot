@@ -62,8 +62,8 @@
 # Installation
 ## 📝 Cloning this repo
 ```cmd
-> git clone https://github.com/SlavyanDesu/BocchiBot.git
-> cd BocchiBot
+git clone https://github.com/keurynn/BocchiBot.git
+cd BocchiBot
 ```
 
 ## ✍️ Editing the file
